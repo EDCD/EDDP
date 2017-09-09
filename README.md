@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to EDDP
+
+This is a server for EDDI (https://github.com/EDCD/EDDI) that shall be used for version control, and perhaps for hosting information related to bodies, systems, and other objects within the Elite:Dangerous game.
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/EDCD/EDDP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
