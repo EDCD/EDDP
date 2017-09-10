@@ -77,4 +77,3 @@ RewriteCond %{HTTP_USER_AGENT} ^Xaldon\ WebSpider [OR]
 RewriteCond %{HTTP_USER_AGENT} ^Zeus 
 RewriteRule ^.* - [F,L]
 
-AddHandler server-parsed .json
