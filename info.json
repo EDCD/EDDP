@@ -1,7 +1,7 @@
 {
   "production": {
     "minversion": "2.3.0",
-    "version": "2.3.0",
+    "version": "2.3.2",
     "url": "https://www.mcdee.net/elite/EDDI.exe",
     "motd": null
   },
@@ -17,4 +17,4 @@
 // minversion: Minimum Version
 // version: Current Version
 // url: Download URL
-// motd: Message of the day?
+// motd: Message
