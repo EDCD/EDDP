@@ -6,7 +6,7 @@
     "motd": null
   },
   "beta": {
-    "minversion": "2.3.1",
+    "minversion": "2.4.0-b1",
     "version": "2.3.1",
     "url": "https://github.com/EDCD/EDDI/releases/download/2.3.1/EDDI-2.3.1.exe",
     "motd": null
