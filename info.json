@@ -1,14 +1,14 @@
 {
   "production": {
-    "minversion": "2.3.0",
-    "version": "2.3.0",
-    "url": "https://www.mcdee.net/elite/EDDI.exe",
+    "minversion": "2.3.1",
+    "version": "2.3.1",
+    "url": "https://github.com/EDCD/EDDI/releases/download/2.3.1/EDDI-2.3.1.exe",
     "motd": null
   },
   "beta": {
-    "minversion": "2.3.0",
-    "version": "2.3.2",
-    "url": "https://www.mcdee.net/elite/EDDI-beta.exe",
+    "minversion": "2.3.1",
+    "version": "2.3.1",
+    "url": "https://github.com/EDCD/EDDI/releases/download/2.3.1/EDDI-2.3.1.exe",
     "motd": null
   },
   "productionbuilds": [ "r131487/r0", "r141964/r0", "r142961/r0", "r143095/r0", "r147540/r0", "r148764/r0" ]
@@ -18,3 +18,4 @@
 // version: Current Version
 // url: Download URL
 // motd: Message
+// productionbuilds: Production builds of Elite::Dangerous. This currently needs to be updated whenever Frontier updates the game.
