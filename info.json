@@ -7,8 +7,8 @@
   },
   "beta": {
     "minversion": "2.3.1",
-    "version": "2.4.0-b3",
-    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F2.4.0-b3/EDDI-2.4.0-b3.exe",
+    "version": "2.4.0-b4",
+    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F2.4.0-b4/EDDI-2.4.0-b4.exe",
     "motd": null
   },
   "productionbuilds": [ "r131487/r0", "r141964/r0", "r142961/r0", "r143095/r0", "r147540/r0", "r148764/r0" ]
