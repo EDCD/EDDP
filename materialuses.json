@@ -1,0 +1,4866 @@
+{
+	"Mercury": [{
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Blast resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Blast resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Shield generator",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Shield generator",
+			"name": "Thermal resistant"
+		}
+	],
+	"Precipitated Alloys": [{
+			"grade": 3,
+			"modulename": "Shield cell bank",
+			"name": "Rapid charge"
+		}, {
+			"grade": 3,
+			"modulename": "Shield cell bank",
+			"name": "Specialised"
+		}, {
+			"grade": 3,
+			"modulename": "Shield generator",
+			"name": "Enhanced low power"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Rapid fire"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Rapid fire"
+		}
+	],
+	"Untypical Shield Scans": [{
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Blast resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Heavy duty"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Shield generator",
+			"name": "Enhanced low power"
+		}, {
+			"grade": 5,
+			"modulename": "Shield generator",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Shield generator",
+			"name": "Thermal resistant"
+		}
+	],
+	"Exquisite Focus Crystals": [{
+			"grade": 5,
+			"modulename": "Power distributor",
+			"name": "Charge enhanced"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Blast resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Thermal resistant"
+		}
+	],
+	"Proto Light Alloys": [{
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Chaff launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Chaff launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Collector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Collector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Electronic counter measures",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Electronic counter measures",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift wake scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift wake scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Heat sink launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Heat sink launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Life support",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Point defence",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Point defence",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Prospector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Prospector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Sensors",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Sensors",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Lightweight"
+		}
+	],
+	"Antimony": [{
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Heavy duty"
+		}
+	],
+	"Electrochemical Arrays": [{
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Detailed surface scanner",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift drive",
+			"name": "Faster boot sequence"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Engine focused"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "System focused"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Weapon focused"
+		}, {
+			"grade": 4,
+			"modulename": "Sensors",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Heavy duty"
+		}, {
+			"grade": 4,
+			"modulename": "Wake scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Overcharged"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Short range"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Short range"
+		}
+	],
+	"Tagged Encryption Codes": [{
+			"grade": 3,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Expanded capture arc"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Long range"
+		}
+	],
+	"Exceptional Scrambled Emission Data": [{
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Efficient"
+		}
+	],
+	"Thermic Alloys": [{
+			"grade": 4,
+			"modulename": "Shield generator",
+			"name": "Enhanced low power"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Rapid fire"
+		}
+	],
+	"Classified Scan Databanks": [{
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Detailed surface scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Sensors",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Wake scanner",
+			"name": "Wide angle"
+		}
+	],
+	"Galvanising Alloys": [{
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Blast resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Blast resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Kinetic resistant"
+		}
+	],
+	"Sulphur": [{
+			"grade": 1,
+			"modulename": "Power distributor",
+			"name": "Engine focused"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "Engine focused"
+		}, {
+			"grade": 1,
+			"modulename": "Power distributor",
+			"name": "High charge capacity"
+		}, {
+			"grade": 1,
+			"modulename": "Power plant",
+			"name": "Overcharged"
+		}, {
+			"grade": 1,
+			"modulename": "Power distributor",
+			"name": "System focused"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "System focused"
+		}, {
+			"grade": 1,
+			"modulename": "Power distributor",
+			"name": "Weapon focused"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "Weapon focused"
+		}, {
+			"grade": 1,
+			"modulename": "Shield cell bank",
+			"name": "Rapid charge"
+		}, {
+			"grade": 3,
+			"modulename": "Shield cell bank",
+			"name": "Rapid charge"
+		}, {
+			"grade": 1,
+			"modulename": "Shield cell bank",
+			"name": "Specialised"
+		}, {
+			"grade": 3,
+			"modulename": "Shield cell bank",
+			"name": "Specialised"
+		}, {
+			"grade": 1,
+			"modulename": "Thrusters",
+			"name": "Clean"
+		}, {
+			"grade": 1,
+			"modulename": "Weapon",
+			"name": "Efficient"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Efficient"
+		}, {
+			"grade": 1,
+			"modulename": "Weapon",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Long range"
+		}
+	],
+	"Phosphorus": [{
+			"grade": 1,
+			"modulename": "Cargo scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 2,
+			"modulename": "Cargo scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 1,
+			"modulename": "Cargo scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Chaff launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Collector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Detailed surface scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 2,
+			"modulename": "Detailed surface scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 3,
+			"modulename": "Detailed surface scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 1,
+			"modulename": "Electronic counter measures",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift drive",
+			"name": "Increased range"
+		}, {
+			"grade": 1,
+			"modulename": "Frame shift wake scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Heat sink launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Kill warrant scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 2,
+			"modulename": "Kill warrant scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 1,
+			"modulename": "Kill warrant scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Life support",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Point defence",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Prospector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Sensors",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Shield booster",
+			"name": "Resistance augmented"
+		}, {
+			"grade": 2,
+			"modulename": "Shield booster",
+			"name": "Resistance augmented"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Resistance augmented"
+		}, {
+			"grade": 1,
+			"modulename": "Shield generator",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Shield generator",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Shield generator",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Wake scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 2,
+			"modulename": "Wake scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 3,
+			"modulename": "Wake scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 1,
+			"modulename": "Weapon",
+			"name": "Lightweight"
+		}
+	],
+	"Conductive Components": [{
+			"grade": 2,
+			"modulename": "Bulkheads",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Chaff launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Collector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Electronic counter measures",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift wake scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Heat sink launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Hull reinforcement",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Life support",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Point defence",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "Engine focused"
+		}, {
+			"grade": 2,
+			"modulename": "Power plant",
+			"name": "Overcharged"
+		}, {
+			"grade": 3,
+			"modulename": "Power plant",
+			"name": "Overcharged"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "System focused"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "Weapon focused"
+		}, {
+			"grade": 4,
+			"modulename": "Prospector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Sensors",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Shield booster",
+			"name": "Blast resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Blast resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Shield booster",
+			"name": "Resistance augmented"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Resistance augmented"
+		}, {
+			"grade": 2,
+			"modulename": "Shield generator",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Shield generator",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Thrusters",
+			"name": "Clean"
+		}, {
+			"grade": 3,
+			"modulename": "Thrusters",
+			"name": "Clean"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Focused"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Overcharged"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Overcharged"
+		}
+	],
+	"Conductive Polymers": [{
+			"grade": 5,
+			"modulename": "Shield generator",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Overcharged"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Short range"
+		}
+	],
+	"Grid Resistors": [{
+			"grade": 1,
+			"modulename": "Frame shift drive",
+			"name": "Faster boot sequence"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift drive",
+			"name": "Faster boot sequence"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift drive",
+			"name": "Faster boot sequence"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Expanded capture arc"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Charge enhanced"
+		}, {
+			"grade": 1,
+			"modulename": "Shield booster",
+			"name": "Heavy duty"
+		}, {
+			"grade": 2,
+			"modulename": "Shield booster",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Shield cell bank",
+			"name": "Rapid charge"
+		}, {
+			"grade": 2,
+			"modulename": "Shield cell bank",
+			"name": "Specialised"
+		}
+	],
+	"Inconsistent Shield Soak Analysis": [{
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Heavy duty"
+		}, {
+			"grade": 4,
+			"modulename": "Shield generator",
+			"name": "Enhanced low power"
+		}, {
+			"grade": 4,
+			"modulename": "Shield generator",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Shield generator",
+			"name": "Thermal resistant"
+		}
+	],
+	"Classified Scan Fragment": [{
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 5,
+			"modulename": "Detailed surface scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 5,
+			"modulename": "Sensors",
+			"name": "Wide angle"
+		}, {
+			"grade": 5,
+			"modulename": "Wake scanner",
+			"name": "Wide angle"
+		}
+	],
+	"Conductive Ceramics": [{
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Chaff launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Chaff launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Collector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Collector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Electronic counter measures",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Electronic counter measures",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift wake scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift wake scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Heat sink launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Heat sink launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Life support",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Point defence",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Point defence",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Power plant",
+			"name": "Overcharged"
+		}, {
+			"grade": 5,
+			"modulename": "Power plant",
+			"name": "Overcharged"
+		}, {
+			"grade": 3,
+			"modulename": "Prospector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Prospector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Sensors",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Sensors",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Resistance augmented"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Resistance augmented"
+		}, {
+			"grade": 4,
+			"modulename": "Shield generator",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Thrusters",
+			"name": "Clean"
+		}, {
+			"grade": 5,
+			"modulename": "Thrusters",
+			"name": "Clean"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Focused"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Overcharged"
+		}
+	],
+	"Open Symmetric Keys": [{
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 3,
+			"modulename": "Detailed surface scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 3,
+			"modulename": "Wake scanner",
+			"name": "Fast scan"
+		}
+	],
+	"Modified Consumer Firmware": [{
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Charge enhanced"
+		}, {
+			"grade": 4,
+			"modulename": "Power distributor",
+			"name": "High charge capacity"
+		}, {
+			"grade": 2,
+			"modulename": "Shield generator",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Shield generator",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Thrusters",
+			"name": "Clean"
+		}, {
+			"grade": 4,
+			"modulename": "Thrusters",
+			"name": "Dirty"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Rapid fire"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Short range"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Short range"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Short range"
+		}
+	],
+	"Proprietary Composites": [{
+			"grade": 4,
+			"modulename": "Auto field mainentance unit",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Heavy duty"
+		}, {
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Chaff launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Collector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Electronic counter measures",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift drive",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift wake scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Fuel scoop",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Heat sink launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Heavy duty"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Life support",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Point defence",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Power distributor",
+			"name": "Armoured"
+		}, {
+			"grade": 4,
+			"modulename": "Power distributor",
+			"name": "High charge capacity"
+		}, {
+			"grade": 5,
+			"modulename": "Power distributor",
+			"name": "High charge capacity"
+		}, {
+			"grade": 4,
+			"modulename": "Power distributor",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Prospector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Refinery",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Thrusters",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "High capacity"
+		}
+	],
+	"Proto Heat Radiators": [{
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Efficient"
+		}
+	],
+	"Adaptive Encryptors Capture": [{
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 5,
+			"modulename": "Detailed surface scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 5,
+			"modulename": "Wake scanner",
+			"name": "Fast scan"
+		}
+	],
+	"Flawed Focus Crystals": [{
+			"grade": 2,
+			"modulename": "Cargo scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 2,
+			"modulename": "Detailed surface scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 3,
+			"modulename": "Detailed surface scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 2,
+			"modulename": "Kill warrant scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 2,
+			"modulename": "Wake scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 3,
+			"modulename": "Wake scanner",
+			"name": "Fast scan"
+		}
+	],
+	"Configurable Components": [{
+			"grade": 4,
+			"modulename": "Shield generator",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Thrusters",
+			"name": "Dirty"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Double shot"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Rapid fire"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Short range"
+		}
+	],
+	"Mechanical Equipment": [{
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Detailed surface scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Expanded capture arc"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Expanded capture arc"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Sensors",
+			"name": "Wide angle"
+		}, {
+			"grade": 2,
+			"modulename": "Thrusters",
+			"name": "Dirty"
+		}, {
+			"grade": 3,
+			"modulename": "Thrusters",
+			"name": "Dirty"
+		}, {
+			"grade": 4,
+			"modulename": "Wake scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Double shot"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Double shot"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "High capacity"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Rapid fire"
+		}
+	],
+	"Heat Dispersion Plate": [{
+			"grade": 2,
+			"modulename": "Bulkheads",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift drive",
+			"name": "Faster boot sequence"
+		}, {
+			"grade": 2,
+			"modulename": "Hull reinforcement",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Power plant",
+			"name": "Overcharged"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Thrusters",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Efficient"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Rapid fire"
+		}
+	],
+	"Nickel": [{
+			"grade": 1,
+			"modulename": "Bulkheads",
+			"name": "Blast resistant"
+		}, {
+			"grade": 1,
+			"modulename": "Bulkheads",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Bulkheads",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Bulkheads",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 1,
+			"modulename": "Cargo scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Cargo scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Chaff launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Chaff launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Chaff launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Collector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Collector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Collector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Electronic counter measures",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Electronic counter measures",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Electronic counter measures",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Frame shift drive",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Frame shift wake scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift wake scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift wake scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Heat sink launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Heat sink launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Heat sink launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Hull reinforcement",
+			"name": "Blast resistant"
+		}, {
+			"grade": 1,
+			"modulename": "Hull reinforcement",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Hull reinforcement",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Hull reinforcement",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 1,
+			"modulename": "Kill warrant scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Kill warrant scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Life support",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Life support",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Life support",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Point defence",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Point defence",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Point defence",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Prospector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Prospector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Prospector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Weapon",
+			"name": "Overcharged"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Overcharged"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Overcharged"
+		}, {
+			"grade": 1,
+			"modulename": "Weapon",
+			"name": "Short range"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Short range"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Short range"
+		}, {
+			"grade": 1,
+			"modulename": "Weapon",
+			"name": "Sturdy"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Sturdy"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Sturdy"
+		}
+	],
+	"Molybdenum": [{
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Blast resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Chaff launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Chaff launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Collector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Collector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Electronic counter measures",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Electronic counter measures",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift wake scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift wake scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Heat sink launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Heat sink launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Blast resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Life support",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Point defence",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Point defence",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Prospector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Prospector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Sturdy"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Sturdy"
+		}
+	],
+	"Heat Vanes": [{
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift drive",
+			"name": "Faster boot sequence"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Efficient"
+		}
+	],
+	"Unexpected Emission Data": [{
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Detailed surface scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Sensors",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Thrusters",
+			"name": "Clean"
+		}, {
+			"grade": 3,
+			"modulename": "Wake scanner",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Efficient"
+		}
+	],
+	"Phase Alloys": [{
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Blast resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Chaff launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Collector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Electronic counter measures",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift wake scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Heat sink launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Blast resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Life support",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Point defence",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Prospector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Sensors",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Lightweight"
+		}
+	],
+	"Hybrid Capacitors": [{
+			"grade": 2,
+			"modulename": "Cargo scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Detailed surface scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Detailed surface scanner",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift drive",
+			"name": "Faster boot sequence"
+		}, {
+			"grade": 2,
+			"modulename": "Kill warrant scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Power distributor",
+			"name": "Charge enhanced"
+		}, {
+			"grade": 2,
+			"modulename": "Sensors",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Sensors",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Shield booster",
+			"name": "Heavy duty"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Heavy duty"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Shield cell bank",
+			"name": "Rapid charge"
+		}, {
+			"grade": 3,
+			"modulename": "Shield cell bank",
+			"name": "Specialised"
+		}, {
+			"grade": 2,
+			"modulename": "Wake scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Wake scanner",
+			"name": "Long range"
+		}
+	],
+	"Specialised Legacy Firmware": [{
+			"grade": 1,
+			"modulename": "Power distributor",
+			"name": "Charge enhanced"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "Charge enhanced"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "High charge capacity"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "High charge capacity"
+		}, {
+			"grade": 2,
+			"modulename": "Thrusters",
+			"name": "Clean"
+		}, {
+			"grade": 3,
+			"modulename": "Thrusters",
+			"name": "Clean"
+		}, {
+			"grade": 1,
+			"modulename": "Thrusters",
+			"name": "Dirty"
+		}, {
+			"grade": 2,
+			"modulename": "Thrusters",
+			"name": "Dirty"
+		}, {
+			"grade": 3,
+			"modulename": "Thrusters",
+			"name": "Dirty"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Rapid fire"
+		}
+	],
+	"Modified Embedded Firmware": [{
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Double shot"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Overcharged"
+		}
+	],
+	"Polymer Capacitors": [{
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Detailed surface scanner",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Sensors",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Heavy duty"
+		}, {
+			"grade": 5,
+			"modulename": "Wake scanner",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Focused"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Overcharged"
+		}
+	],
+	"Mechanical Scrap": [{
+			"grade": 1,
+			"modulename": "Cargo scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 2,
+			"modulename": "Cargo scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Chaff launcher",
+			"name": "Ammo capacity"
+		}, {
+			"grade": 1,
+			"modulename": "Detailed surface scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 2,
+			"modulename": "Detailed surface scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Detailed surface scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 1,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Expanded capture arc"
+		}, {
+			"grade": 3,
+			"modulename": "Heat sink launcher",
+			"name": "Ammo capacity"
+		}, {
+			"grade": 1,
+			"modulename": "Kill warrant scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 2,
+			"modulename": "Kill warrant scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Point defence",
+			"name": "Ammo capacity"
+		}, {
+			"grade": 1,
+			"modulename": "Sensors",
+			"name": "Wide angle"
+		}, {
+			"grade": 2,
+			"modulename": "Sensors",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Sensors",
+			"name": "Wide angle"
+		}, {
+			"grade": 1,
+			"modulename": "Wake scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 2,
+			"modulename": "Wake scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Wake scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 1,
+			"modulename": "Weapon",
+			"name": "High capacity"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "High capacity"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "High capacity"
+		}, {
+			"grade": 1,
+			"modulename": "Weapon",
+			"name": "Rapid fire"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Rapid fire"
+		}
+	],
+	"Atypical Encryption Archives": [{
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 4,
+			"modulename": "Detailed surface scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 4,
+			"modulename": "Wake scanner",
+			"name": "Fast scan"
+		}
+	],
+	"Manganese": [{
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 2,
+			"modulename": "Cargo scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Chaff launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Chaff launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Collector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Collector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Detailed surface scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 2,
+			"modulename": "Electronic counter measures",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Electronic counter measures",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift drive",
+			"name": "Increased range"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift wake scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift wake scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Heat sink launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Heat sink launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 2,
+			"modulename": "Kill warrant scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Life support",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Life support",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Point defence",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Point defence",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Prospector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Prospector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Sensors",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Sensors",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Resistance augmented"
+		}, {
+			"grade": 4,
+			"modulename": "Shield generator",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Wake scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Lightweight"
+		}
+	],
+	"Distorted Shield Cycle Recordings": [{
+			"grade": 2,
+			"modulename": "Shield booster",
+			"name": "Heavy duty"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Heavy duty"
+		}, {
+			"grade": 1,
+			"modulename": "Shield generator",
+			"name": "Enhanced low power"
+		}, {
+			"grade": 2,
+			"modulename": "Shield generator",
+			"name": "Enhanced low power"
+		}, {
+			"grade": 3,
+			"modulename": "Shield generator",
+			"name": "Enhanced low power"
+		}, {
+			"grade": 1,
+			"modulename": "Shield generator",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Shield generator",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Shield generator",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 1,
+			"modulename": "Shield generator",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Shield generator",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Shield generator",
+			"name": "Thermal resistant"
+		}
+	],
+	"Chemical Distillery": [{
+			"grade": 4,
+			"modulename": "Frame shift drive",
+			"name": "Increased range"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Charge enhanced"
+		}
+	],
+	"Germanium": [{
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Cargo scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Detailed surface scanner",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Detailed surface scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Detailed surface scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Lightweight"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Kill warrant scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Sensors",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Sensors",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Sensors",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Blast resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Shield booster",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Shield booster",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Shield generator",
+			"name": "Enhanced low power"
+		}, {
+			"grade": 3,
+			"modulename": "Shield generator",
+			"name": "Enhanced low power"
+		}, {
+			"grade": 2,
+			"modulename": "Shield generator",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Shield generator",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Wake scanner",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Wake scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Wake scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Focused"
+		}
+	],
+	"Salvaged Alloys": [{
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Blast resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Cargo scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Chaff launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Chaff launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Collector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Collector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Electronic counter measures",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Electronic counter measures",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift wake scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift wake scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Heat sink launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Heat sink launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Blast resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Kill warrant scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Life support",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Life support",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Point defence",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Point defence",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Prospector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Prospector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Sensors",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Sensors",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Lightweight"
+		}
+	],
+	"Arsenic": [{
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 5,
+			"modulename": "Detailed surface scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift drive",
+			"name": "Increased range"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 5,
+			"modulename": "Shield generator",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Wake scanner",
+			"name": "Fast scan"
+		}
+	],
+	"Refined Focus Crystals": [{
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 5,
+			"modulename": "Detailed surface scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Blast resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Resistance augmented"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Resistance augmented"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Shield generator",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Shield generator",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Wake scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Focused"
+		}
+	],
+	"Heat Exchangers": [{
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift drive",
+			"name": "Faster boot sequence"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Power plant",
+			"name": "Low emissions"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Thrusters",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Efficient"
+		}
+	],
+	"Iron": [{
+			"grade": 1,
+			"modulename": "Bulkheads",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Bulkheads",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Cargo scanner",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Cargo scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Long range"
+		}, {
+			"grade": 1,
+			"modulename": "Detailed surface scanner",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Detailed surface scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Detailed surface scanner",
+			"name": "Long range"
+		}, {
+			"grade": 1,
+			"modulename": "Hull reinforcement",
+			"name": "Lightweight"
+		}, {
+			"grade": 2,
+			"modulename": "Hull reinforcement",
+			"name": "Lightweight"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Lightweight"
+		}, {
+			"grade": 1,
+			"modulename": "Kill warrant scanner",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Kill warrant scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Long range"
+		}, {
+			"grade": 1,
+			"modulename": "Power plant",
+			"name": "Low emissions"
+		}, {
+			"grade": 2,
+			"modulename": "Power plant",
+			"name": "Low emissions"
+		}, {
+			"grade": 3,
+			"modulename": "Power plant",
+			"name": "Low emissions"
+		}, {
+			"grade": 1,
+			"modulename": "Sensors",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Sensors",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Sensors",
+			"name": "Long range"
+		}, {
+			"grade": 1,
+			"modulename": "Shield booster",
+			"name": "Blast resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Shield booster",
+			"name": "Blast resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Blast resistant"
+		}, {
+			"grade": 1,
+			"modulename": "Shield booster",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 1,
+			"modulename": "Shield booster",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 1,
+			"modulename": "Wake scanner",
+			"name": "Long range"
+		}, {
+			"grade": 2,
+			"modulename": "Wake scanner",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Wake scanner",
+			"name": "Long range"
+		}, {
+			"grade": 1,
+			"modulename": "Weapon",
+			"name": "Focused"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Focused"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Focused"
+		}
+	],
+	"Military Supercapacitors": [{
+			"grade": 5,
+			"modulename": "Power distributor",
+			"name": "High charge capacity"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Focused"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "High capacity"
+		}
+	],
+	"Mechanical Components": [{
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 5,
+			"modulename": "Detailed surface scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Expanded capture arc"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 5,
+			"modulename": "Sensors",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Shield generator",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Wake scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Double shot"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "High capacity"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Rapid fire"
+		}
+	],
+	"Worn Shield Emitters": [{
+			"grade": 1,
+			"modulename": "Auto field mainentance unit",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Cargo scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Chaff launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Collector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Electronic counter measures",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Frame shift wake scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Fuel scoop",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Heat sink launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Kill warrant scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Life support",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Point defence",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Power distributor",
+			"name": "Armoured"
+		}, {
+			"grade": 1,
+			"modulename": "Power distributor",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Prospector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Refinery",
+			"name": "Shielded"
+		}
+	],
+	"Chemical Processors": [{
+			"grade": 2,
+			"modulename": "Frame shift drive",
+			"name": "Increased range"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift drive",
+			"name": "Increased range"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "Charge enhanced"
+		}
+	],
+	"Ruthenium": [{
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Blast resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Blast resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Shield generator",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Shield generator",
+			"name": "Thermal resistant"
+		}
+	],
+	"Compound Shielding": [{
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Heavy duty"
+		}, {
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Chaff launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Collector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Electronic counter measures",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift drive",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift wake scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Heat sink launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Heavy duty"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Point defence",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Power distributor",
+			"name": "Armoured"
+		}, {
+			"grade": 5,
+			"modulename": "Power distributor",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Prospector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Thrusters",
+			"name": "Reinforced"
+		}
+	],
+	"Carbon": [{
+			"grade": 2,
+			"modulename": "Auto field mainentance unit",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Auto field mainentance unit",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Bulkheads",
+			"name": "Blast resistant"
+		}, {
+			"grade": 1,
+			"modulename": "Bulkheads",
+			"name": "Heavy duty"
+		}, {
+			"grade": 2,
+			"modulename": "Bulkheads",
+			"name": "Heavy duty"
+		}, {
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Heavy duty"
+		}, {
+			"grade": 2,
+			"modulename": "Cargo scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Chaff launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Chaff launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Collector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Collector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Electronic counter measures",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Electronic counter measures",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift drive",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift drive",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift wake scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift wake scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Fuel scoop",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Fuel scoop",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Heat sink launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Heat sink launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Hull reinforcement",
+			"name": "Blast resistant"
+		}, {
+			"grade": 1,
+			"modulename": "Hull reinforcement",
+			"name": "Heavy duty"
+		}, {
+			"grade": 2,
+			"modulename": "Hull reinforcement",
+			"name": "Heavy duty"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Heavy duty"
+		}, {
+			"grade": 2,
+			"modulename": "Kill warrant scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Life support",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Life support",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Point defence",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Point defence",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "Armoured"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Armoured"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Prospector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Prospector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Refinery",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Refinery",
+			"name": "Shielded"
+		}, {
+			"grade": 1,
+			"modulename": "Thrusters",
+			"name": "Reinforced"
+		}, {
+			"grade": 1,
+			"modulename": "Weapon",
+			"name": "Double shot"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Double shot"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Double shot"
+		}
+	],
+	"High Density Composites": [{
+			"grade": 3,
+			"modulename": "Auto field mainentance unit",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Heavy duty"
+		}, {
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Chaff launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Chaff launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Collector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Collector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Electronic counter measures",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Electronic counter measures",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift drive",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift wake scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift wake scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Fuel scoop",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Heat sink launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Heat sink launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Heavy duty"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Life support",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Point defence",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Point defence",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Armoured"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "High charge capacity"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Prospector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Prospector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Refinery",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Thrusters",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Double shot"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "High capacity"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Sturdy"
+		}
+	],
+	"Vanadium": [{
+			"grade": 4,
+			"modulename": "Auto field mainentance unit",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Blast resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Heavy duty"
+		}, {
+			"grade": 2,
+			"modulename": "Bulkheads",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Chaff launcher",
+			"name": "Ammo capacity"
+		}, {
+			"grade": 4,
+			"modulename": "Chaff launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Collector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Electronic counter measures",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift drive",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift wake scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Fuel scoop",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Heat sink launcher",
+			"name": "Ammo capacity"
+		}, {
+			"grade": 4,
+			"modulename": "Heat sink launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Blast resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Heavy duty"
+		}, {
+			"grade": 2,
+			"modulename": "Hull reinforcement",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Life support",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Point defence",
+			"name": "Ammo capacity"
+		}, {
+			"grade": 4,
+			"modulename": "Point defence",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Power distributor",
+			"name": "Armoured"
+		}, {
+			"grade": 4,
+			"modulename": "Power distributor",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Prospector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Refinery",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Thrusters",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Thrusters",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Double shot"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "High capacity"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "High capacity"
+		}
+	],
+	"Abnormal Compact Emissions Data": [{
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Detailed surface scanner",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Sensors",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Thrusters",
+			"name": "Clean"
+		}, {
+			"grade": 5,
+			"modulename": "Wake scanner",
+			"name": "Long range"
+		}
+	],
+	"Zirconium": [{
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Blast resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Overcharged"
+		}
+	],
+	"Niobium": [{
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Chaff launcher",
+			"name": "Ammo capacity"
+		}, {
+			"grade": 5,
+			"modulename": "Detailed surface scanner",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Detailed surface scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Heat sink launcher",
+			"name": "Ammo capacity"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 3,
+			"modulename": "Point defence",
+			"name": "Ammo capacity"
+		}, {
+			"grade": 5,
+			"modulename": "Sensors",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Sensors",
+			"name": "Wide angle"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Blast resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Heavy duty"
+		}, {
+			"grade": 4,
+			"modulename": "Shield generator",
+			"name": "Enhanced low power"
+		}, {
+			"grade": 5,
+			"modulename": "Wake scanner",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Wake scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Focused"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "High capacity"
+		}
+	],
+	"Irregular Emission Data": [{
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "Low emissions"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Low emissions"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Efficient"
+		}
+	],
+	"Unusual Encrypted Files": [{
+			"grade": 2,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Expanded capture arc"
+		}, {
+			"grade": 1,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Long range"
+		}
+	],
+	"Focus Crystals": [{
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 4,
+			"modulename": "Detailed surface scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Blast resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Resistance augmented"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Shield generator",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Shield generator",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Wake scanner",
+			"name": "Fast scan"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Focused"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Long range"
+		}
+	],
+	"Security Firmware Patch": [{
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Double shot"
+		}
+	],
+	"Shielding Sensors": [{
+			"grade": 4,
+			"modulename": "Auto field mainentance unit",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Heavy duty"
+		}, {
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Chaff launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Collector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Electronic counter measures",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift drive",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift wake scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Fuel scoop",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Heat sink launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Heavy duty"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Life support",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Point defence",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Power distributor",
+			"name": "Armoured"
+		}, {
+			"grade": 4,
+			"modulename": "Power distributor",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Prospector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Refinery",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Thrusters",
+			"name": "Reinforced"
+		}
+	],
+	"Eccentric Hyperspace Trajectories": [{
+			"grade": 4,
+			"modulename": "Frame shift drive",
+			"name": "Increased range"
+		}
+	],
+	"Core Dynamics Composites": [{
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Heavy duty"
+		}, {
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Chaff launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Collector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Electronic counter measures",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift wake scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Heat sink launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Heavy duty"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Point defence",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Power distributor",
+			"name": "Armoured"
+		}, {
+			"grade": 5,
+			"modulename": "Power distributor",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Prospector limpet controller",
+			"name": "Shielded"
+		}
+	],
+	"Aberrant Shield Pattern Analysis": [{
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Blast resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Thermal resistant"
+		}
+	],
+	"Zinc": [{
+			"grade": 2,
+			"modulename": "Bulkheads",
+			"name": "Blast resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Chaff launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Collector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Electronic counter measures",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift drive",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift wake scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Heat sink launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Hull reinforcement",
+			"name": "Blast resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Life support",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Point defence",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Prospector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Overcharged"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Sturdy"
+		}
+	],
+	"Chromium": [{
+			"grade": 2,
+			"modulename": "Frame shift drive",
+			"name": "Faster boot sequence"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Engine focused"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "High charge capacity"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "High charge capacity"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "System focused"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Weapon focused"
+		}, {
+			"grade": 2,
+			"modulename": "Shield cell bank",
+			"name": "Rapid charge"
+		}, {
+			"grade": 2,
+			"modulename": "Shield cell bank",
+			"name": "Specialised"
+		}, {
+			"grade": 3,
+			"modulename": "Thrusters",
+			"name": "Dirty"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Efficient"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Focused"
+		}
+	],
+	"Selenium": [{
+			"grade": 3,
+			"modulename": "Frame shift drive",
+			"name": "Faster boot sequence"
+		}, {
+			"grade": 4,
+			"modulename": "Power distributor",
+			"name": "High charge capacity"
+		}, {
+			"grade": 3,
+			"modulename": "Power plant",
+			"name": "Overcharged"
+		}, {
+			"grade": 3,
+			"modulename": "Shield generator",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Shield generator",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Thrusters",
+			"name": "Dirty"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Efficient"
+		}
+	],
+	"Technetium": [{
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Chaff launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Collector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Electronic counter measures",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift wake scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Heat sink launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Point defence",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Prospector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Rapid fire"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Sturdy"
+		}
+	],
+	"Divergent Scan Data": [{
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Detailed surface scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Expanded capture arc"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Sensors",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Wake scanner",
+			"name": "Wide angle"
+		}
+	],
+	"Tin": [{
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 5,
+			"modulename": "Detailed surface scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 5,
+			"modulename": "Sensors",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Shield booster",
+			"name": "Heavy duty"
+		}, {
+			"grade": 5,
+			"modulename": "Shield generator",
+			"name": "Enhanced low power"
+		}, {
+			"grade": 5,
+			"modulename": "Thrusters",
+			"name": "Clean"
+		}, {
+			"grade": 5,
+			"modulename": "Wake scanner",
+			"name": "Wide angle"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "High capacity"
+		}
+	],
+	"Anomalous FSD Telemetry": [{
+			"grade": 3,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Long range"
+		}
+	],
+	"Atypical Disrupted Wake Echoes": [{
+			"grade": 1,
+			"modulename": "Frame shift drive",
+			"name": "Increased range"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift drive",
+			"name": "Increased range"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Long range"
+		}
+	],
+	"Anomalous Bulk Scan Data": [{
+			"grade": 3,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Long range"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Engine focused"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "System focused"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Weapon focused"
+		}
+	],
+	"Decoded Emission Data": [{
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Detailed surface scanner",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Sensors",
+			"name": "Long range"
+		}, {
+			"grade": 4,
+			"modulename": "Thrusters",
+			"name": "Clean"
+		}, {
+			"grade": 4,
+			"modulename": "Wake scanner",
+			"name": "Long range"
+		}
+	],
+	"Heat Conduction Wiring": [{
+			"grade": 1,
+			"modulename": "Bulkheads",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 1,
+			"modulename": "Hull reinforcement",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Power plant",
+			"name": "Overcharged"
+		}, {
+			"grade": 3,
+			"modulename": "Power plant",
+			"name": "Overcharged"
+		}, {
+			"grade": 2,
+			"modulename": "Shield booster",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Shield booster",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 2,
+			"modulename": "Thrusters",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Thrusters",
+			"name": "Reinforced"
+		}
+	],
+	"Cadmium": [{
+			"grade": 4,
+			"modulename": "Frame shift drive",
+			"name": "Faster boot sequence"
+		}, {
+			"grade": 4,
+			"modulename": "Power plant",
+			"name": "Overcharged"
+		}, {
+			"grade": 5,
+			"modulename": "Thrusters",
+			"name": "Dirty"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Efficient"
+		}
+	],
+	"Strange Wake Solutions": [{
+			"grade": 3,
+			"modulename": "Frame shift drive",
+			"name": "Increased range"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift drive interdictor",
+			"name": "Expanded capture arc"
+		}
+	],
+	"Chemical Manipulators": [{
+			"grade": 5,
+			"modulename": "Frame shift drive",
+			"name": "Increased range"
+		}, {
+			"grade": 4,
+			"modulename": "Power distributor",
+			"name": "Charge enhanced"
+		}, {
+			"grade": 5,
+			"modulename": "Power distributor",
+			"name": "Charge enhanced"
+		}, {
+			"grade": 5,
+			"modulename": "Power plant",
+			"name": "Overcharged"
+		}
+	],
+	"Tungsten": [{
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Blast resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Heavy duty"
+		}, {
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Bulkheads",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Cargo scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Chaff launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Chaff launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Chaff launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Collector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Collector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Collector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Electronic counter measures",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Electronic counter measures",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Electronic counter measures",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift drive",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift wake scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Frame shift wake scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift wake scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Heat sink launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Heat sink launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Heat sink launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Blast resistant"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Heavy duty"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Kinetic resistant"
+		}, {
+			"grade": 4,
+			"modulename": "Hull reinforcement",
+			"name": "Thermal resistant"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Kill warrant scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Life support",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Life support",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Point defence",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Point defence",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Point defence",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Power distributor",
+			"name": "Armoured"
+		}, {
+			"grade": 5,
+			"modulename": "Power distributor",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Prospector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 4,
+			"modulename": "Prospector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 5,
+			"modulename": "Prospector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Sturdy"
+		}, {
+			"grade": 4,
+			"modulename": "Weapon",
+			"name": "Sturdy"
+		}
+	],
+	"Biotech Conductors": [{
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Short range"
+		}
+	],
+	"Proto Radiolic Alloys": [{
+			"grade": 5,
+			"modulename": "Cargo scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Chaff launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Collector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Electronic counter measures",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Frame shift wake scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Heat sink launcher",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Kill warrant scanner",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Point defence",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Prospector limpet controller",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Sensors",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Lightweight"
+		}
+	],
+	"Datamined Wake Exceptions": [{
+			"grade": 5,
+			"modulename": "Frame shift drive",
+			"name": "Increased range"
+		}
+	],
+	"Tellurium": [{
+			"grade": 5,
+			"modulename": "Frame shift drive",
+			"name": "Faster boot sequence"
+		}, {
+			"grade": 5,
+			"modulename": "Power plant",
+			"name": "Overcharged"
+		}
+	],
+	"Imperial Shielding": [{
+			"grade": 5,
+			"modulename": "Frame shift drive",
+			"name": "Shielded"
+		}, {
+			"grade": 5,
+			"modulename": "Shield booster",
+			"name": "Resistance augmented"
+		}, {
+			"grade": 5,
+			"modulename": "Thrusters",
+			"name": "Reinforced"
+		}
+	],
+	"Cracked Industrial Firmware": [{
+			"grade": 4,
+			"modulename": "Power distributor",
+			"name": "Charge enhanced"
+		}, {
+			"grade": 5,
+			"modulename": "Power distributor",
+			"name": "Charge enhanced"
+		}, {
+			"grade": 5,
+			"modulename": "Power distributor",
+			"name": "High charge capacity"
+		}, {
+			"grade": 5,
+			"modulename": "Thrusters",
+			"name": "Dirty"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Double shot"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Long range"
+		}, {
+			"grade": 5,
+			"modulename": "Weapon",
+			"name": "Short range"
+		}
+	],
+	"Shield Emitters": [{
+			"grade": 2,
+			"modulename": "Auto field mainentance unit",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Auto field mainentance unit",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Bulkheads",
+			"name": "Heavy duty"
+		}, {
+			"grade": 3,
+			"modulename": "Bulkheads",
+			"name": "Heavy duty"
+		}, {
+			"grade": 2,
+			"modulename": "Cargo scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Cargo scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Cargo scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Chaff launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Chaff launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Chaff launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Chaff launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Collector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Collector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Collector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Collector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Electronic counter measures",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Electronic counter measures",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Electronic counter measures",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Electronic counter measures",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift drive",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift wake scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift wake scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Frame shift wake scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Frame shift wake scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Fuel scoop",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Fuel scoop",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Fuel transfer limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Hatch breaker limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Heat sink launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Heat sink launcher",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Heat sink launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Heat sink launcher",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Hull reinforcement",
+			"name": "Heavy duty"
+		}, {
+			"grade": 3,
+			"modulename": "Hull reinforcement",
+			"name": "Heavy duty"
+		}, {
+			"grade": 2,
+			"modulename": "Kill warrant scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Kill warrant scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Kill warrant scanner",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Life support",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Life support",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Life support",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Life support",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Point defence",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Point defence",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Point defence",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Point defence",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "Armoured"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Armoured"
+		}, {
+			"grade": 2,
+			"modulename": "Power distributor",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Power distributor",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Prospector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 3,
+			"modulename": "Prospector limpet controller",
+			"name": "Reinforced"
+		}, {
+			"grade": 2,
+			"modulename": "Prospector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Prospector limpet controller",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Refinery",
+			"name": "Shielded"
+		}, {
+			"grade": 3,
+			"modulename": "Refinery",
+			"name": "Shielded"
+		}, {
+			"grade": 2,
+			"modulename": "Weapon",
+			"name": "Sturdy"
+		}, {
+			"grade": 3,
+			"modulename": "Weapon",
+			"name": "Sturdy"
+		}
+	],
+	"Military Grade Alloys": [{
+			"grade": 5,
+			"modulename": "Bulkheads",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Hull reinforcement",
+			"name": "Lightweight"
+		}, {
+			"grade": 5,
+			"modulename": "Shield generator",
+			"name": "Enhanced low power"
+		}
+	],
+	"Pharmaceutical Isolators": [{
+			"grade": 5,
+			"modulename": "Thrusters",
+			"name": "Dirty"
+		}
+	],
+	"Improvised Components": [{
+			"grade": 5,
+			"modulename": "Shield generator",
+			"name": "Reinforced"
+		}
+	]
+}
