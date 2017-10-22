@@ -1,0 +1,224 @@
+{
+	"Aberrant Shield Pattern Analysis": {
+		"location": "Obtained by scanning system authority vessels."
+	},
+	"Abnormal Compact Emissions Data": {
+		"location": "Obtained by scanning vessels."
+	},
+	"Adaptive Encryptors Capture": {
+		"location": "Obtained by scanning satellites orbiting installations and populated Earth-like worlds."
+	},
+	"Anomalous Bulk Scan Data": {
+		"location": "Obtained by scanning vessels."
+	},
+	"Anomalous FSD Telemetry": {
+		"location": "Obtained by scanning frame shift high wakes of vessels."
+	},
+	"Antimony": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Arsenic": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Atypical Disrupted Wake Echoes": {
+		"location": "Obtained by scanning frame shift high wakes of vessels."
+	},
+	"Atypical Encryption Archives": {
+		"location": "Obtained by scanning datalinks in ground bases."
+	},
+	"Biotech conductors": {
+		"location": "Obtained as a mission reward."
+	},
+	"Cadmium": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Carbon": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Chemical Distillery": {
+		"location": "Obtained from the wreckage of haulage vessels."
+	},
+	"Chemical Manipulators": {
+		"location": "Obtained from the wreckage of large haulage vessels, commonly Type-7s and Type 9s.  These are also available at Dav's Hope."
+	},
+	"Chemical Processors": {
+		"location": "Obtained from the wreckage of haulage vessels."
+	},
+	"Chromium": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Classified Scan Databanks": {
+		"location": "Obtained by scanning large haulage vessels, commonly Type-7s and Type-9s ."
+	},
+	"Classified Scan Fragment": {
+		"location": "Obtained by scanning datalinks in ground bases."
+	},
+	"Compound Shielding": {
+		"location": "Obtained from the wreckage of combat vessels.  These are also available at Dav's Hope."
+	},
+	"Conductive Ceramics": {
+		"location": "Obtained from the wreckage of combat vessels.  These are also available at Dav's Hope."
+	},
+	"Conductive Components": {
+		"location": "Obtained from the wreckage of combat vessels."
+	},
+	"Conductive Polymers": {
+		"location": "Obtained from the wreckage of large haulage and passenger vessels such as Type-9s and Beluga liners.  These are also available at Dav's Hope."
+	},
+	"Configurable Components": {
+		"location": "Obtained from the wreckage of ???. These are also available at Dav's Hope."
+	},
+	"Core Dynamics Composites": {
+		"location": "Obtained in high-grade signal sources in systems under Federal control."
+	},
+	"Cracked Industrial Firmware": {
+		"location": "Obtained by scanning datalinks in ground bases."
+	},
+	"Datamined Wake Exceptions": {
+		"location": "Obtained by scanning frame shift high wakes of vessels."
+	},
+	"Decoded Emisison Data": {
+		"location": "Obtained by scanning system authority vessels."
+	},
+	"Distorted Shield Cycle Recordings": {
+		"location": "Obtained by scanning haulage vessels."
+	},
+	"Divergent Scan Data": {
+		"location": "Obtained by scanning datalinks in ground bases."
+	},
+	"Eccentric Hyperspace Trajectories": {
+		"location": "Obtained by scanning frame shift high wakes of vessels."
+	},
+	"Electrochemical Arrays": {
+		"location": "Obtained from the wreckage of combat and system authority vessels."
+	},
+	"Exquisite Focus Crystals": {
+		"location": "Obtained as a mission reward."
+	},
+	"Focus Crystals": {
+		"location": "Obtained from the wreckage of combat vessels."
+	},
+	"Galvanising Alloys": {
+		"location": "Obtained from the wreckage of combat vessels."
+	},
+	"Germanium": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Grid Resistors": {
+		"location": "Obtained from the wreckage of small combat vessels."
+	},
+	"Heat Vanes": {
+		"location": "Obtained from the wreckage of small combat vessels.  These are also available at Dav's Hope."
+	},
+	"High Density Composites": {
+		"location": "Obtained from the wreckage of large combat vessels, commonly Anacondas and Federal Corvettes.  These are also available at Dav's Hope."
+	},
+	"Hybrid Capacitors": {
+		"location": "Obtained from the wreckage of large combat vessels, commonly Anacondas and Federal Corvettes."
+	},
+	"Imperial Shielding": {
+		"location": "Obtained in high-grade signal sources in systems under Imperial control."
+	},
+	"Improvised Components": {
+		"location": "Obtained in high-grade signal sources in civil unrest systems."
+	},
+	"Iron": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Manganese": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Mechanical Components": {
+		"location": "Obtained from the wreckage of small haulage vessels.  These are also available at Dav's Hope."
+	},
+	"Mercury": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Military Grade Alloys": {
+		"location": "Obtained in high-grade signal sources in war or civil war systems."
+	},
+	"Military Supercapacitors": {
+		"location": "Obtained in high-grade signal sources in war or civil war systems."
+	},
+	"Modified Consumer Firmware": {
+		"location": "Obtained by scanning datalinks in ground bases or scanning private data beacons in encoded signal sources."
+	},
+	"Modified Embedded Firmware": {
+		"location": "Obtained by scanning datalinks in ground bases."
+	},
+	"Molybdenum": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Nickel": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Niobium": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Pharmaceutical Isolators": {
+		"location": "Obtained in high-grade signal sources in outbreak systems."
+	},
+	"Phosphorus": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Polonium": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Proprietary Composites": {
+		"location": "Obtained in high-grade signal sources Federal control."
+	},
+	"Proto Heat Radiators": {
+		"location": "Obtained in high-grade signal sources in boom systems."
+	},
+	"Proto Light Alloys": {
+		"location": "Obtained in high-grade signal sources in boom systems."
+	},
+	"Proto Radiolic Alloys": {
+		"location": "Obtained in high-grade signal sources in boom systems."
+	},
+	"Ruthenium": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Selenium": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Specialised Legacy Firmware": {
+		"location": "Obtained by scanning satellites orbiting installations and populated Earth-like worlds."
+	},
+	"Strange Wake Solutions": {
+		"location": "Obtained by scanning frame shift high wakes of vessels."
+	},
+	"Sulphur": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Tagged Encryption Codes": {
+		"location": "Obtained by scanning satellites orbiting installations and populated Earth-like worlds."
+	},
+	"Technetium": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Tellurium": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Tin": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Tungsten": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Vanadium": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Worn Shield Emitters": {
+		"location": "Obtained from the wreckage of combat vessels."
+	},
+	"Yttrium": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Zinc": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Zirconium": {
+		"location": "Obtained from surface prospecting or asteroid mining."
+	}
+}
