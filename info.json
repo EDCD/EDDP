@@ -1,21 +1,19 @@
 {
   "production": {
     "minversion": "2.4.2",
-    "version": "2.4.2",
-    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F2.4.2/EDDI-2.4.2.exe",
+    "version": "2.4.3",
+    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F2.4.3/EDDI-2.4.3.exe",
     "motd": null
   },
   "beta": {
     "minversion": "2.4.2",
-    "version": "2.4.2",
-    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F2.4.2/EDDI-2.4.2.exe",
+    "version": "2.4.3",
+    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F2.4.3/EDDI-2.4.3.exe",
     "motd": null
   },
-  "productionbuilds": [ "r131487/r0", "r141964/r0", "r142961/r0", "r143095/r0", "r147540/r0", "r148764/r0" ]
 }
 
-// minversion: Minimum Version
+// minversion: Minimum Version (versions below this get a mandatory update)
 // version: Current Version
 // url: Download URL
 // motd: Message
-// productionbuilds: Production builds of Elite::Dangerous. This is now redundant.
