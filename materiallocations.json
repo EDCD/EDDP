@@ -1,18 +1,18 @@
 {
 	"Aberrant Shield Pattern Analysis": {
-		"location": "Obtained by scanning system authority vessels."
+		"location": "Obtained by scanning system authority and combat vessels, or as a mission reward."
 	},
 	"Abnormal Compact Emissions Data": {
-		"location": "Obtained by scanning vessels."
+		"location": "Obtained by scanning combat vessels, scanning deep space data beacons, or as a mission reward."
 	},
 	"Adaptive Encryptors Capture": {
-		"location": "Obtained by scanning satellites orbiting installations and populated Earth-like worlds."
+		"location": "Obtained by scanning satellites orbiting installations and populated Earth-like worlds, or as a mission reward."
 	},
 	"Anomalous Bulk Scan Data": {
-		"location": "Obtained by scanning vessels."
+		"location": "Obtained by scanning haulage vessels or as a mission reward."
 	},
 	"Anomalous FSD Telemetry": {
-		"location": "Obtained by scanning frame shift high wakes of vessels."
+		"location": "Obtained by scanning frame shift high wakes of vessels or as a mission reward."
 	},
 	"Antimony": {
 		"location": "Obtained from surface prospecting or asteroid mining."
@@ -21,10 +21,10 @@
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Atypical Disrupted Wake Echoes": {
-		"location": "Obtained by scanning frame shift high wakes of vessels."
+		"location": "Obtained by scanning frame shift high wakes of vessels or as a mission reward."
 	},
 	"Atypical Encryption Archives": {
-		"location": "Obtained by scanning datalinks in ground bases."
+		"location": "Obtained by scanning datalinks in ground bases or signal sources."
 	},
 	"Biotech conductors": {
 		"location": "Obtained as a mission reward."
@@ -42,7 +42,7 @@
 		"location": "Obtained from the wreckage of large haulage vessels, commonly Type-7s and Type 9s.  These are also available at Dav's Hope."
 	},
 	"Chemical Processors": {
-		"location": "Obtained from the wreckage of haulage vessels."
+		"location": "Obtained from the wreckage of haulage vessels or as a mission reward."
 	},
 	"Chromium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
@@ -51,40 +51,40 @@
 		"location": "Obtained by scanning large haulage vessels, commonly Type-7s and Type-9s ."
 	},
 	"Classified Scan Fragment": {
-		"location": "Obtained by scanning datalinks in ground bases."
+		"location": "Obtained by scanning datalinks in ground bases or as a mission reward."
 	},
 	"Compound Shielding": {
-		"location": "Obtained from the wreckage of combat vessels.  These are also available at Dav's Hope."
+		"location": "Obtained from the wreckage of combat vessels or as a mission reward.  These are also available at Dav's Hope."
 	},
 	"Conductive Ceramics": {
-		"location": "Obtained from the wreckage of combat vessels.  These are also available at Dav's Hope."
+		"location": "Obtained from the wreckage of haulage vessels.  These are also available at Dav's Hope."
 	},
 	"Conductive Components": {
-		"location": "Obtained from the wreckage of combat vessels."
+		"location": "Obtained from the wreckage of haulage vessels."
 	},
 	"Conductive Polymers": {
-		"location": "Obtained from the wreckage of large haulage and passenger vessels such as Type-9s and Beluga liners.  These are also available at Dav's Hope."
+		"location": "Obtained from the wreckage of large haulage and passenger vessels such as Type-9s and Beluga liners.  These are also available at Dav's Hope or as a mission reward."
 	},
 	"Configurable Components": {
-		"location": "Obtained from the wreckage of ???. These are also available at Dav's Hope."
+		"location": "Obtained from the wreckage of haulage vessels. These are also available at Dav's Hope."
 	},
 	"Core Dynamics Composites": {
-		"location": "Obtained in high-grade signal sources in systems under Federal control."
+		"location": "Obtained in high-grade signal sources in systems under Federal control or from the wreckage of Federal combat vessels."
 	},
 	"Cracked Industrial Firmware": {
-		"location": "Obtained by scanning datalinks in ground bases."
+		"location": "Obtained by scanning datalinks in ground bases or as a mission reward."
 	},
 	"Datamined Wake Exceptions": {
-		"location": "Obtained by scanning frame shift high wakes of vessels."
+		"location": "Obtained by scanning frame shift high wakes of vessels or as a mission reward."
 	},
 	"Decoded Emission Data": {
-		"location": "Obtained by scanning system authority vessels."
+		"location": "Obtained by scanning system authority vessels or as a mission reward."
 	},
 	"Distorted Shield Cycle Recordings": {
-		"location": "Obtained by scanning haulage vessels."
+		"location": "Obtained by scanning haulage vessels or as a mission reward."
 	},
 	"Divergent Scan Data": {
-		"location": "Obtained by scanning datalinks in ground bases."
+		"location": "Obtained by scanning datalinks in ground bases or as a mission reward."
 	},
 	"Eccentric Hyperspace Trajectories": {
 		"location": "Obtained by scanning frame shift high wakes of vessels."
@@ -93,7 +93,7 @@
 		"location": "Obtained from the wreckage of combat and system authority vessels."
 	},
 	"Exceptional Scrambled Emission Data": {
-		"location": "Obtained from signal sources or as mission reward."
+		"location": "Obtained from scanning vessels, signal sources, or as a mission reward."
 	},
 	"Exquisite Focus Crystals": {
 		"location": "Obtained as a mission reward."
@@ -105,46 +105,46 @@
 		"location": "Obtained from the wreckage of combat vessels."
 	},
 	"Galvanising Alloys": {
-		"location": "Obtained from the wreckage of combat vessels."
+		"location": "Obtained from the wreckage of combat vessels or as a mission reward."
 	},
 	"Germanium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Grid Resistors": {
-		"location": "Obtained from the wreckage of small combat vessels."
+		"location": "Obtained from the wreckage of small combat vessels or as a mission reward."
 	},
 	"Heat Conduction Wiring": {
-		"location": "Obtained from transport ships salvage, in signal source or as mission reward."
+		"location": "Obtained from the wreckage of haulage vessels, in signal sources or as a mission reward."
 	},
 	"Heat Dispersion Plate": {
-		"location": "Obtained from transports ships salvage, signal source or mission reward."
+		"location": "Obtained from the wreckage of haulage vessels, signal sources or as a mission reward."
 	},
 	"Heat Exchangers": {
-		"location": "Obtained from transports ships salvage or degraded emission signal source (Anarchy)."
+		"location": "Obtained from the wreckage of haulage vessels."
 	},
 	"Heat Vanes": {
-		"location": "Obtained from the wreckage of small combat vessels.  These are also available at Dav's Hope."
+		"location": "Obtained from the wreckage of haulage vessels or as a mission reward.  These are also available at Dav's Hope."
 	},
 	"High Density Composites": {
 		"location": "Obtained from the wreckage of large combat vessels, commonly Anacondas and Federal Corvettes.  These are also available at Dav's Hope."
 	},
 	"Hybrid Capacitors": {
-		"location": "Obtained from the wreckage of large combat vessels, commonly Anacondas and Federal Corvettes."
+		"location": "Obtained from the wreckage of large combat vessels, commonly Anacondas and Federal Corvettes, or as a mission reward."
 	},
 	"Imperial Shielding": {
-		"location": "Obtained in high-grade signal sources in systems under Imperial control."
+		"location": "Obtained in high-grade signal sources in systems under Imperial control or as a mission reward."
 	},
 	"Improvised Components": {
-		"location": "Obtained in high-grade signal sources in civil unrest systems."
+		"location": "Obtained in high-grade signal sources in civil unrest systems or as a mission reward."
 	},
 	"Inconsistent Shield Soak Analysis": {
-		"location": "Obtained by scanning transport vessels or as mission reward."
+		"location": "Obtained by scanning haulage vessels or as a mission reward."
 	},
 	"Iron": {
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Irregular Emission Data": {
-		"location": "Obtained from signal source or mission reward."
+		"location": "Obtained from signal sources or as a mission reward."
 	},
 	"Manganese": {
 		"location": "Obtained from surface prospecting or asteroid mining."
@@ -153,7 +153,7 @@
 		"location": "Obtained from the wreckage of small haulage vessels.  These are also available at Dav's Hope."
 	},
 	"Mechanical Equipment": {
-		"location": "Obtained from the transport ship salvage or as mission reward."
+		"location": "Obtained from the wreckage of haulage vessels."
 	},
 	"Mechanical Scrap": {
 		"location": "Obtained from the transport ship salvage, signal source or as mission reward."
@@ -162,13 +162,13 @@
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Military Grade Alloys": {
-		"location": "Obtained in high-grade signal sources in war or civil war systems."
+		"location": "Obtained in high-grade signal sources in war or civil war systems or as a mission reward."
 	},
 	"Military Supercapacitors": {
-		"location": "Obtained in high-grade signal sources in war or civil war systems."
+		"location": "Obtained in high-grade signal sources in war or civil war systems or as a mission reward."
 	},
 	"Modified Consumer Firmware": {
-		"location": "Obtained by scanning datalinks in ground bases or scanning private data beacons in encoded signal sources."
+		"location": "Obtained as a mission reward or by scanning datalinks in ground bases or scanning private data beacons in encoded signal sources while systems are in elections or civil wars."
 	},
 	"Modified Embedded Firmware": {
 		"location": "Obtained by scanning datalinks in ground bases."
@@ -183,13 +183,28 @@
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Open Symmetric Keys": {
-		"location": "Obtained by scanning datalinks in ground bases, or in signal sources or as mission reward."
+		"location": "Obtained by scanning datalinks in ground bases, or in signal sources or as a mission reward."
 	},
+        "Pattern Alpha Obelisk Data": {
+		"location": "Obtained from the ancient ruins of the alien species known as the Guardians."
+	},
+        "Pattern Beta Obelisk Data": {
+		"location": "Obtained from the ancient ruins of the alien species known as the Guardians."
+	},
+        "Pattern Delta Obelisk Data": {
+		"location": "Obtained from the ancient ruins of the alien species known as the Guardians."
+	},    
+        "Pattern Epsilon Obelisk Data": {
+		"location": "Obtained from the ancient ruins of the alien species known as the Guardians."
+	},        
+        "Pattern Gamma Obelisk Data": {
+		"location": "Obtained from the ancient ruins of the alien species known as the Guardians."
+	},        
 	"Pharmaceutical Isolators": {
-		"location": "Obtained in high-grade signal sources in outbreak systems."
+		"location": "Obtained in high-grade signal sources in outbreak systems or as a mission reward."
 	},
 	"Phase Alloys": {
-		"location": "Obtained combat ships salvage or in signal source."
+		"location": "Obtained from the wreckage of combat vessels or in signal sources in systems with booming economies."
 	},
 	"Phosphorus": {
 		"location": "Obtained from surface prospecting or asteroid mining."
@@ -198,19 +213,19 @@
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Polymer Capacitors": {
-		"location": "Obtained  from the wreckage of combat and system authority vessels, signal source (convoy dispersal pattern) or as mission reward."
+		"location": "Obtained  from the wreckage of combat and system authority vessels, signal sources with convoy dispersal patterns or as a mission reward."
 	},
 	"Precipitated Alloys": {
-		"location": "Obtained from the wreckage of combat and system authority vessels or reward of mission."
+		"location": "Obtained from the wreckage of combat and system authority vessels or as mission reward."
 	},
 	"Proprietary Composites": {
-		"location": "Obtained in high-grade signal sources Federal control."
+		"location": "Obtained in high-grade signal sources Federal control or as a mission reward in Federal systems during elections."
 	},
 	"Proto Heat Radiators": {
-		"location": "Obtained in high-grade signal sources in boom systems."
+		"location": "Obtained in high-grade signal sources in boom systems or as a mission reward."
 	},
 	"Proto Light Alloys": {
-		"location": "Obtained in high-grade signal sources in boom systems."
+		"location": "Obtained in high-grade signal sources in boom systems or as a mission reward."
 	},
 	"Proto Radiolic Alloys": {
 		"location": "Obtained in high-grade signal sources in boom systems."
@@ -222,31 +237,31 @@
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Salvaged Alloys": {
-		"location": "Obtained from salvage combat ships or combat aftermath signal source."
+		"location": "Obtained from the wreckage of combat vessels or combat aftermath signal sources."
 	},
 	"Security Firmware Patch": {
-		"location": "Obtained by scanning datalinks in ground bases or mission reward."
+		"location": "Obtained by scanning datalinks in ground bases or as a mission reward."
 	},
 	"Selenium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Shield Emitters": {
-		"location": "Obtained from combat ships salvage or in signal source."
+		"location": "Obtained from the wreckage of combat vessels or in signal sources."
 	},
 	"Shielding Sensors": {
-		"location": "Obtained from combat ships salvage, in some signal source or as mission reward."
+		"location": "Obtained from the wreckage of combat vessels, in some signal sources or as a mission reward."
 	},
 	"Specialised Legacy Firmware": {
-		"location": "Obtained by scanning satellites orbiting installations and populated Earth-like worlds."
+		"location": "Obtained by scanning surface data points, satellites orbiting installations and populated Earth-like worlds, or as a mission reward."
 	},
 	"Strange Wake Solutions": {
-		"location": "Obtained by scanning frame shift high wakes of vessels."
+		"location": "Obtained by scanning frame shift high wakes of vessels or as a mission reward."
 	},
 	"Sulphur": {
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Tagged Encryption Codes": {
-		"location": "Obtained by scanning satellites orbiting installations and populated Earth-like worlds."
+		"location": "Obtained by scanning surface data points, satellites orbiting installations and populated Earth-like worlds, or as a mission reward."
 	},
 	"Technetium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
@@ -254,8 +269,35 @@
 	"Tellurium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
+	"Thargoid Carapace": {
+		"location": "Obtained from Thargoid surface sites."
+	},        
+	"Thargoid Energy Cell": {
+		"location": "Obtained from Thargoid surface sites."
+	},               
+	"Thargoid Material Composition Data": {
+		"location": "Obtained from Thargoid surface sites."
+	},               
+	"Thargoid Organic Circuitry": {
+		"location": "Obtained from Thargoid surface sites."
+	},               
+	"Thargoid Residue Data": {
+		"location": "Obtained from Thargoid surface sites."
+	},               
+	"Thargoid Ship Signature": {
+		"location": "Obtained from Thargoid surface sites or scanning Thargoid vessels."
+	},               
+	"Thargoid Structural Data": {
+		"location": "Obtained from Thargoid surface sites."
+	},               
+	"Thargoid Technological Components": {
+		"location": "Obtained from Thargoid surface sites."
+	},               
+	"Thargoid Wake Data": {
+		"location": "Obtained by scanning the wakes left by Thargoid vessels."
+	},               
 	"Thermic Alloys": {
-		"location": "Obtained from combat vessels salvage or as mission reward."
+		"location": "Obtained from the wreckage of combat vessels or as a mission reward."
 	},
 	"Tin": {
 		"location": "Obtained from surface prospecting or asteroid mining."
@@ -264,7 +306,7 @@
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Unexpected Emission Data": {
-		"location": "Obtained from combat ships scanning or in signal source."
+		"location": "Obtained from scanning combat vessels or in signal sources."
 	},
 	"Untypical Shield Scans": {
 		"location": "Obtained by scanning combat vessels."
@@ -273,7 +315,7 @@
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Worn Shield Emitters": {
-		"location": "Obtained from the wreckage of combat vessels."
+		"location": "Obtained from the wreckage of combat vessels or in signal sources."
 	},
 	"Yttrium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
