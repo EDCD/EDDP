@@ -77,7 +77,7 @@
 	"Datamined Wake Exceptions": {
 		"location": "Obtained by scanning frame shift high wakes of vessels."
 	},
-	"Decoded Emisison Data": {
+	"Decoded Emission Data": {
 		"location": "Obtained by scanning system authority vessels."
 	},
 	"Distorted Shield Cycle Recordings": {
@@ -113,6 +113,9 @@
 	"Grid Resistors": {
 		"location": "Obtained from the wreckage of small combat vessels."
 	},
+	"Heat Conduction Wiring": {
+		"location": "Obtained from transport ships salvage, in signal source or as mission reward."
+	},
 	"Heat Dispersion Plate": {
 		"location": "Obtained from transports ships salvage, signal source or mission reward."
 	},
@@ -139,6 +142,9 @@
 	},
 	"Iron": {
 		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Irregular Emission Data": {
+		"location": "Obtained from signal source or mission reward."
 	},
 	"Manganese": {
 		"location": "Obtained from surface prospecting or asteroid mining."
@@ -218,8 +224,17 @@
 	"Salvaged Alloys": {
 		"location": "Obtained from salvage combat ships or combat aftermath signal source."
 	},
+	"Security Firmware Patch": {
+		"location": "Obtained by scanning datalinks in ground bases or mission reward."
+	},
 	"Selenium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Shield Emitters": {
+		"location": "Obtained from combat ships salvage or in signal source."
+	},
+	"Shielding Sensors": {
+		"location": "Obtained from combat ships salvage, in some signal source or as mission reward."
 	},
 	"Specialised Legacy Firmware": {
 		"location": "Obtained by scanning satellites orbiting installations and populated Earth-like worlds."
@@ -252,7 +267,7 @@
 		"location": "Obtained from combat ships scanning or in signal source."
 	},
 	"Untypical Shield Scans": {
-		"location": "Obtained by scanning vessels, and more surely combat vessels."
+		"location": "Obtained by scanning combat vessels."
 	},
 	"Vanadium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
