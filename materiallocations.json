@@ -92,8 +92,14 @@
 	"Electrochemical Arrays": {
 		"location": "Obtained from the wreckage of combat and system authority vessels."
 	},
+	"Exceptional Scrambled Emission Data": {
+		"location": "Obtained from signal sources or as mission reward."
+	},
 	"Exquisite Focus Crystals": {
 		"location": "Obtained as a mission reward."
+	},
+	"Flawed Focus Crystals": {
+		"location": "Obtained from the wreckage of combat vessels or in combat aftermath signal sources."
 	},
 	"Focus Crystals": {
 		"location": "Obtained from the wreckage of combat vessels."
@@ -106,6 +112,12 @@
 	},
 	"Grid Resistors": {
 		"location": "Obtained from the wreckage of small combat vessels."
+	},
+	"Heat Dispersion Plate": {
+		"location": "Obtained from transports ships salvage, signal source or mission reward."
+	},
+	"Heat Exchangers": {
+		"location": "Obtained from transports ships salvage or degraded emission signal source (Anarchy)."
 	},
 	"Heat Vanes": {
 		"location": "Obtained from the wreckage of small combat vessels.  These are also available at Dav's Hope."
@@ -122,6 +134,9 @@
 	"Improvised Components": {
 		"location": "Obtained in high-grade signal sources in civil unrest systems."
 	},
+	"Inconsistent Shield Soak Analysis": {
+		"location": "Obtained by scanning transport vessels or as mission reward."
+	},
 	"Iron": {
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
@@ -130,6 +145,12 @@
 	},
 	"Mechanical Components": {
 		"location": "Obtained from the wreckage of small haulage vessels.  These are also available at Dav's Hope."
+	},
+	"Mechanical Equipment": {
+		"location": "Obtained from the transport ship salvage or as mission reward."
+	},
+	"Mechanical Scrap": {
+		"location": "Obtained from the transport ship salvage, signal source or as mission reward."
 	},
 	"Mercury": {
 		"location": "Obtained from surface prospecting or asteroid mining."
@@ -155,14 +176,23 @@
 	"Niobium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
+	"Open Symmetric Keys": {
+		"location": "Obtained by scanning datalinks in ground bases, or in signal sources or as mission reward."
+	},
 	"Pharmaceutical Isolators": {
 		"location": "Obtained in high-grade signal sources in outbreak systems."
+	},
+	"Phase Alloys": {
+		"location": "Obtained combat ships salvage or in signal source."
 	},
 	"Phosphorus": {
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Polonium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Polymer Capacitors": {
+		"location": "Obtained  from the wreckage of combat and system authority vessels, signal source (convoy dispersal pattern) or as mission reward."
 	},
 	"Precipitated Alloys": {
 		"location": "Obtained from the wreckage of combat and system authority vessels or reward of mission."
@@ -179,8 +209,14 @@
 	"Proto Radiolic Alloys": {
 		"location": "Obtained in high-grade signal sources in boom systems."
 	},
+	"Refined Focus Crystals": {
+		"location": "Obtained in weapons fire signal sources or as mission reward."
+	},
 	"Ruthenium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Salvaged Alloys": {
+		"location": "Obtained from salvage combat ships or combat aftermath signal source."
 	},
 	"Selenium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
@@ -203,11 +239,20 @@
 	"Tellurium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
+	"Thermic Alloys": {
+		"location": "Obtained from combat vessels salvage or as mission reward."
+	},
 	"Tin": {
 		"location": "Obtained from surface prospecting or asteroid mining."
 	},
 	"Tungsten": {
 		"location": "Obtained from surface prospecting or asteroid mining."
+	},
+	"Unexpected Emission Data": {
+		"location": "Obtained from combat ships scanning or in signal source."
+	},
+	"Untypical Shield Scans": {
+		"location": "Obtained by scanning vessels, and more surely combat vessels."
 	},
 	"Vanadium": {
 		"location": "Obtained from surface prospecting or asteroid mining."
