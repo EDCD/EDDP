@@ -10,7 +10,7 @@
     "version": "2.4.6-b2",
     "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F2.4.6-b2/EDDI-2.4.6-b2.exe",
     "motd": null
-  },
+  }
 }
 
 // minversion: Minimum Version (versions below this get a mandatory update)
