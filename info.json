@@ -1,19 +1,21 @@
 {
   "production": {
-    "minversion": "2.4.2",
+    "minversion": "2.4.5",
     "version": "2.4.5",
     "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F2.4.5/EDDI-2.4.5.exe",
     "motd": null
   },
   "beta": {
-    "minversion": "2.4.2",
-    "version": "2.4.6-b2",
-    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F2.4.6-b2/EDDI-2.4.6-b2.exe",
+    "minversion": "2.4.5",
+    "version": "3.0.0-b1",
+    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F3.0.0-b1/EDDI-3.0.0-b1.exe",
     "motd": null
-  }
+  },
 }
 
 // minversion: Minimum Version (versions below this get a mandatory update)
 // version: Current Version
 // url: Download URL
 // motd: Message
+// 
+// NB It's OK to have a trailing comma in the last member of a JSON dictionary ;)
