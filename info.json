@@ -10,7 +10,7 @@
     "version": "3.0.0-b1",
     "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F3.0.0-b1/EDDI-3.0.0-b1.exe",
     "motd": null
-  },
+  }
 }
 
 // minversion: Minimum Version (versions below this get a mandatory update)
@@ -18,4 +18,3 @@
 // url: Download URL
 // motd: Message
 // 
-// NB It's OK to have a trailing comma in the last member of a JSON dictionary ;)
