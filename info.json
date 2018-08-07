@@ -1,12 +1,12 @@
 {
   "production": {
-    "minversion": "2.4.5",
+    "minversion": "3.0.1",
     "version": "3.0.1",
     "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F3.0.1/EDDI-3.0.1.exe",
     "motd": null
   },
   "beta": {
-    "minversion": "2.4.5",
+    "minversion": "3.0.1",
     "version": "3.0.1",
     "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F3.0.1/EDDI-3.0.1.exe",
     "motd": null
