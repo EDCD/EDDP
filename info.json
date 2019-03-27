@@ -7,8 +7,8 @@
   },
   "beta": {
     "minversion": "3.3.3",
-    "version": "3.3.7-b1",
-    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F3.3.7-b1/EDDI-3.3.7-b1.exe",
+    "version": "3.3.7-b2",
+    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F3.3.7-b2/EDDI-3.3.7-b2.exe",
     "motd": null
   }
 }
