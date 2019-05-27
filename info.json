@@ -12,9 +12,3 @@
     "motd": null
   }
 }
-
-// minversion: Minimum Version (versions below this get a mandatory update)
-// version: Current Version
-// url: Download URL
-// motd: Message
-// 
