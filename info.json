@@ -1,14 +1,14 @@
 {
   "production": {
     "minversion": "4.0.1",
-    "version": "4.0.1",
-    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F4.0.1/EDDI-4.0.1.exe",
+    "version": "4.0.2",
+    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F4.0.2/EDDI-4.0.2.exe",
     "motd": null
   },
   "beta": {
     "minversion": "4.0.1",
-    "version": "4.0.2-rc1",
-    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F4.0.2-rc1/EDDI-4.0.2-rc1.exe",
+    "version": "4.0.2",
+    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F4.0.2/EDDI-4.0.2.exe",
     "motd": null
   }
 }
