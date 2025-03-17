@@ -2,7 +2,7 @@
   "production": {
     "minversion": "4.0.4",
     "version": "4.1.1",
-    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F4.1.0/EDDI-4.1.1.exe",
+    "url": "https://github.com/EDCD/EDDI/releases/download/Release%2F4.1.1/EDDI-4.1.1.exe",
     "motd": null
   },
   "beta": {
